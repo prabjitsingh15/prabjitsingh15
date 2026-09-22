@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-i currently work at Manikaran private lvt<br>l am mern stack developer
+i currently work at Manikaran private pvt<br>l am mern stack developer
 
 
 # 💻 Tech Stack:
