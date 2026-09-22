@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-i currently work at cetpa InfoTech<br>l am mern stack developer<br>i study bca from iitm janakpuri<br>
+i currently work at Manikaran private lvt<br>l am mern stack developer
 
 
 # 💻 Tech Stack:
